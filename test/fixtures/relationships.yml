@@ -1,0 +1,15 @@
+one:
+  follower: Zi
+  followed: lana
+
+two:
+  follower: Zi
+  followed: mallory
+
+three:
+  follower: lana
+  followed: Zi
+
+four:
+  follower: archer
+  followed: Zi
